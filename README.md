@@ -11,8 +11,9 @@
 <li> 🌱 I’m exploring Machine Learning. </li>
 <li> 📫 How to reach me: 578saurabh@gmail.com </li>
 <li> 💬 Ask me about Front End Development. </li>
-<li> 😄 Pronouns: ... </li>
-<li> ⚡ Fun fact: ... </li> <br><br><br>
+<li> � Open Source Enthusiast. </li>
+<li> 😄 Pronouns: He/His </li>
+<li> ⚡ Fun fact: I love to sing and watch Korean Web Series. </li> <br><br><br>
  
  
  <p>⚡ Github Stats: </p>
