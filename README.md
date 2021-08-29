@@ -10,7 +10,7 @@
 <li> 🌱 I’m currently learning React JS, Machine Learning, Back End Development </li>
 <li> 🌱 I’m exploring Machine Learning. </li>
 <li> 📫 How to reach me: 578saurabh@gmail.com </li>
-<li> 💬 Ask me about Front End Development. </li>
+<li> 💬 Ask me about Front End Technologies. </li>
 <li> � Open Source Enthusiast. </li>
 <li> 😄 Pronouns: He/His </li>
 <li> ⚡ Fun fact: I love to sing and watch Korean Web Series. </li> <br><br><br>
