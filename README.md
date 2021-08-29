@@ -9,9 +9,8 @@
 <li> 🔭 I’m currently working on my problem solving skills. </li>
 <li> 🌱 I’m currently learning React JS, Machine Learning, Back End Development </li>
 <li> 🌱 I’m exploring Machine Learning. </li>
-<li> 📫 How to reach me: **578saurabh@gmail.com ** </li>
-<li> 💬 Ask me about Front End Development. </li>
 <li> 📫 How to reach me: 578saurabh@gmail.com </li>
+<li> 💬 Ask me about Front End Development. </li>
 <li> 😄 Pronouns: ... </li>
 <li> ⚡ Fun fact: ... </li> <br><br><br>
  
