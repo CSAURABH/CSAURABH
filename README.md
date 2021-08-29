@@ -11,7 +11,7 @@
 <li> 🌱 I’m exploring Machine Learning. </li>
 <li> 📫 How to reach me: **578saurabh@gmail.com ** </li>
 <li> 💬 Ask me about Front End Development. </li>
-<li> 📫 How to reach me: ... </li>
+<li> 📫 How to reach me: 578saurabh@gmail.com </li>
 <li> 😄 Pronouns: ... </li>
 <li> ⚡ Fun fact: ... </li> <br><br><br>
  
