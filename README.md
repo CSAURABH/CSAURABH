@@ -13,7 +13,7 @@
 <li> 💬 Ask me about Front End Technologies. </li>
 <li> � Open Source Enthusiast. </li>
 <li> 😄 Pronouns: He/His </li>
-<li> ⚡ Fun fact: I love to sing and watch Korean Web Series. </li> <br><br><br>
+<li> ⚡ Fun fact: I love to sing and watch Korean Web Series. </li> <br><br>
  
  
  <p>⚡ Github Stats: </p>
