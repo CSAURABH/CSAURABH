@@ -7,7 +7,7 @@
 🎧💻 I am passionate about Web Dev, Android Dev, Machine Learning, Blockchain & I enjoy learning new things. <br><br><br>
 
 <li> 🔭 I’m currently working on my problem solving skills. </li>
-<li> 🌱 I’m currently learning React JS, Machine Learning, Back End Development </li>
+<li> 🌱 I’m currently learning React JS, Flutter development </li>
 <li> 🌱 I’m exploring Machine Learning. </li>
 <li> 📫 How to reach me: 578saurabh@gmail.com </li>
 <li> 💬 Ask me about Front End Technologies. </li>
