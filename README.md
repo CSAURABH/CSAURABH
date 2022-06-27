@@ -1,16 +1,16 @@
-<p align="center"> Hi there! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="25px"> </p>
+<p align="center"> Hi there! </p>
 
 <h1 align="center"> I'm Saurabh! </h1>
  
 <h2> About Me 🚀 </h1>
 🎓 I’m a junior pursuing my Bachelors in Computer Science & Engineering From Nagpur Institute of Technology, Nagpur <br>
-🎧💻 I am passionate about Web Dev, Android Dev, Machine Learning, Blockchain & I enjoy learning new things. <br><br><br>
+🎧💻 I am passionate about Web Dev, Flutter Dev, Machine Learning, Blockchain & I enjoy learning new things. <br><br><br>
 
 <li> 🔭 I’m currently working on my problem solving skills. </li>
 <li> 🌱 I’m currently learning React JS, Flutter development </li>
 <li> 🌱 I’m exploring Machine Learning. </li>
-<li> 📫 How to reach me: 578saurabh@gmail.com </li>
-<li> 💬 Ask me about Front End Technologies. </li>
+<li> 📫 How to reach me: 578saurabh@gmail.com</li>
+<li> 💬 Ask me about Flutter development, Dart Language and Firebase Technologies. </li>
 <li> � Open Source Enthusiast. </li>
 <li> 😄 Pronouns: He/His </li>
 <li> ⚡ Fun fact: I love to sing and watch Korean Web Series. </li> <br><br>
